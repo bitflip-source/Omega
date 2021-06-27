@@ -1,0 +1,1467 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1055; Version 2009; 64bit' Language: 'de' Physical Memory: 16267 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Omega/omega/OmegaRPG/OmegaRPG
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53723
+Successfully changed project path to: D:/Omega/omega/OmegaRPG/OmegaRPG
+D:/Omega/omega/OmegaRPG/OmegaRPG
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 40.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Omega/omega/OmegaRPG/OmegaRPG/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.6627
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56740
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003664 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.586 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005124 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.249 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.0 MB.
+System memory in use after: 66.1 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1827.
+Total: 2.812200 ms (FindLiveObjects: 0.324700 ms CreateObjectMapping: 0.069300 ms MarkObjects: 2.314700 ms  DeleteObjects: 0.102100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01
+  artifactKey: Guid(8331ccc24a97385448e03f881b3606bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01 using Guid(8331ccc24a97385448e03f881b3606bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a9e447bcb7dcbda71f52d2832440b8e') in 0.005908 seconds 
+  Import took 0.009759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.269765 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/Scene/BG_drop.fbx
+  artifactKey: Guid(9fc0ac94f45cca24ca4cb951a030ffd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/Scene/BG_drop.fbx using Guid(9fc0ac94f45cca24ca4cb951a030ffd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5005b15ba6348eed78387b576ee84bc') in 0.244752 seconds 
+  Import took 0.247710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.636737 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_01_V01.glb
+  artifactKey: Guid(309b6b6ead0223046a7ed942f460e0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_01_V01.glb using Guid(309b6b6ead0223046a7ed942f460e0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace31583f1c0ce1876eb484aad274ddb') in 0.010880 seconds 
+  Import took 0.014027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009272 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_01_V01.glb
+  artifactKey: Guid(309b6b6ead0223046a7ed942f460e0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_01_V01.glb using Guid(309b6b6ead0223046a7ed942f460e0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace31583f1c0ce1876eb484aad274ddb') in 0.003531 seconds 
+  Import took 0.007824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.686021 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01
+  artifactKey: Guid(adf7bcc7732073c4688fadfb98a1af2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01 using Guid(adf7bcc7732073c4688fadfb98a1af2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a71c2d9e16794dd1085ddaf13083cef') in 0.003497 seconds 
+  Import took 0.006250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003265 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Male_01_V01.fbx
+  artifactKey: Guid(cb5c9cedca12e1a4aa282ae7b53f42ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Male_01_V01.fbx using Guid(cb5c9cedca12e1a4aa282ae7b53f42ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '023daa83cfdb547d41fe38a010df43f8') in 0.225160 seconds 
+  Import took 0.228708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.878782 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials
+  artifactKey: Guid(8a0d1823e30bbd84d95382814e19821c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials using Guid(8a0d1823e30bbd84d95382814e19821c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c92260d1a35bd3afc108f2872099e6bf') in 0.004522 seconds 
+  Import took 0.007201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.114501 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Body.mat
+  artifactKey: Guid(f0c6a84e48dbdbb4f8e64d8e2da6229b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Body.mat using Guid(f0c6a84e48dbdbb4f8e64d8e2da6229b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a678531b72472fc376370725638cb975') in 0.018959 seconds 
+  Import took 0.021903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Eye.mat
+  artifactKey: Guid(1b94eba8822aee54fb9bc7a1eca23a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Eye.mat using Guid(1b94eba8822aee54fb9bc7a1eca23a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25da4fdad16f51950860157eb3cd6653') in 0.313550 seconds 
+  Import took 0.319014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000986 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Hair.mat
+  artifactKey: Guid(10fb97658881ce04f868d13205dc1e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Hair.mat using Guid(10fb97658881ce04f868d13205dc1e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53af5b4553af4c73af1e9311e5b0b2bf') in 0.026755 seconds 
+  Import took 0.032056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Face.mat
+  artifactKey: Guid(53454184bf7930949b0f2203f20ec32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Face.mat using Guid(53454184bf7930949b0f2203f20ec32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28fa4d9f40a0e67f086bb977c405bc10') in 0.016157 seconds 
+  Import took 0.020235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.684079 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02
+  artifactKey: Guid(ae776a27b07307c4692393c43f51431c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02 using Guid(ae776a27b07307c4692393c43f51431c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e39bc53acfaae9dc22629c7f964bbc6') in 0.003249 seconds 
+  Import took 0.005944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.642332 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02
+  artifactKey: Guid(536d03bbfb0724b4a9c91994a55be1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02 using Guid(536d03bbfb0724b4a9c91994a55be1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc11b72ae141771d65ee3156f220d164') in 0.004456 seconds 
+  Import took 0.008006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005162 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Male_02_V02.fbx
+  artifactKey: Guid(d03c2c170c3c19542add83211b87225d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Male_02_V02.fbx using Guid(d03c2c170c3c19542add83211b87225d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fc5e12b0cab7d9506781f7cb32b76c8') in 0.149102 seconds 
+  Import took 0.152570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.179533 seconds.
+  path: Assets/WoLfulus/LineEnding/Documentation/Documentation.html
+  artifactKey: Guid(f972ffd62a978474287a70b8e17d7049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WoLfulus/LineEnding/Documentation/Documentation.html using Guid(f972ffd62a978474287a70b8e17d7049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c715ca6a92e0a8e239ecd6efa346d3') in 0.016711 seconds 
+  Import took 0.019752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029479 seconds.
+  path: Assets/WoLfulus/LineEnding/Documentation/Documentation.html
+  artifactKey: Guid(f972ffd62a978474287a70b8e17d7049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WoLfulus/LineEnding/Documentation/Documentation.html using Guid(f972ffd62a978474287a70b8e17d7049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c715ca6a92e0a8e239ecd6efa346d3') in 0.004368 seconds 
+  Import took 0.008752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.703190 seconds.
+  path: Assets/WoLfulus/LineEnding/Documentation/Documentation.md
+  artifactKey: Guid(60dfa05c841f3fd428301f4c53ef1d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WoLfulus/LineEnding/Documentation/Documentation.md using Guid(60dfa05c841f3fd428301f4c53ef1d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83be506b6b568d4aeee55954f943fef7') in 0.007355 seconds 
+  Import took 0.011136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.174370 seconds.
+  path: Assets/WoLfulus/LineEnding/Documentation/Images
+  artifactKey: Guid(e44efaf0c62589845829e28d295e4c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WoLfulus/LineEnding/Documentation/Images using Guid(e44efaf0c62589845829e28d295e4c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a66908926cec5f1a05932bffb3bf8cd') in 0.003227 seconds 
+  Import took 0.005988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004918 seconds.
+  path: Assets/WoLfulus/LineEnding/Documentation/Images/settings.png
+  artifactKey: Guid(bd2078584a71a604ba5291f0213c11d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WoLfulus/LineEnding/Documentation/Images/settings.png using Guid(bd2078584a71a604ba5291f0213c11d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df72e26e8c5de8abfdfe356515aa3103') in 0.048158 seconds 
+  Import took 0.051233 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004622 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.545 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1432 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.5 MB.
+System memory in use after: 84.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1919.
+Total: 2.623000 ms (FindLiveObjects: 0.168700 ms CreateObjectMapping: 0.048800 ms MarkObjects: 2.339500 ms  DeleteObjects: 0.064900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 240.326334 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/tmpQuestName.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/tmpQuestName.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc1c43510684b0e447f9e8b4e3a03a5') in 0.038713 seconds 
+  Import took 0.041372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010232 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/tmpQuestName.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/tmpQuestName.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc1c43510684b0e447f9e8b4e3a03a5') in 0.006058 seconds 
+  Import took 0.008562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022248 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/Deliver Gems.prefab
+  artifactKey: Guid(57588c7c2c0c43149ae86712c0da1d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/Deliver Gems.prefab using Guid(57588c7c2c0c43149ae86712c0da1d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e2ac502df12de9b8871bf2fa7584ba') in 0.010275 seconds 
+  Import took 0.013434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/Gather Gems.prefab
+  artifactKey: Guid(0af4c736c40eaf34e9939638ad111389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/Gather Gems.prefab using Guid(0af4c736c40eaf34e9939638ad111389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be8c8172b03588aa2e583fb0d81e3fa2') in 0.009130 seconds 
+  Import took 0.012336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/Kill And Gather.prefab
+  artifactKey: Guid(b74e3b0356862bd44ab229e416b6700a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/Kill And Gather.prefab using Guid(b74e3b0356862bd44ab229e416b6700a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9171913e389f5cf8e186f0bba8bfda2a') in 0.008797 seconds 
+  Import took 0.012380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000665 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/Kill Gobbos.prefab
+  artifactKey: Guid(f5cb2a9cfa2501241ae4aa29db01974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/Kill Gobbos.prefab using Guid(f5cb2a9cfa2501241ae4aa29db01974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd55d57ba0c7a5021feecb845a7791c') in 0.006846 seconds 
+  Import took 0.009739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/Demo Guide step 1.prefab
+  artifactKey: Guid(f2134803f53e77042b139f058be166d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/Demo Guide step 1.prefab using Guid(f2134803f53e77042b139f058be166d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed75154de8b465a86fa04b60688a5d09') in 0.006169 seconds 
+  Import took 0.009153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/Demo Guide step 2.prefab
+  artifactKey: Guid(4cb98a533f54b394aae6c378cfc583db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/Demo Guide step 2.prefab using Guid(4cb98a533f54b394aae6c378cfc583db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10558ecbfd970e6439ed8f0ebadd7ed0') in 0.006973 seconds 
+  Import took 0.009969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005742 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/Demo Guide step 1.prefab
+  artifactKey: Guid(f2134803f53e77042b139f058be166d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/Demo Guide step 1.prefab using Guid(f2134803f53e77042b139f058be166d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed75154de8b465a86fa04b60688a5d09') in 0.006548 seconds 
+  Import took 0.010420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.904601 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/A.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/A.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51c0adeca7b9d757870002cc3df30357') in 0.005458 seconds 
+  Import took 0.008072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015737 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/A.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/A.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51c0adeca7b9d757870002cc3df30357') in 0.006264 seconds 
+  Import took 0.009573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.042306 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/tmpQuestName.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/tmpQuestName.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce108707fed7fb1aa0c31097d0b6abaf') in 0.004917 seconds 
+  Import took 0.007558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012195 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/tmpQuestName.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/tmpQuestName.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce108707fed7fb1aa0c31097d0b6abaf') in 0.005548 seconds 
+  Import took 0.008351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.053098 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/F.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/F.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5492b9f428c45a62648bc23b94819eb7') in 0.009331 seconds 
+  Import took 0.012472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012608 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/F.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/F.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5492b9f428c45a62648bc23b94819eb7') in 0.006154 seconds 
+  Import took 0.009783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.980358 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/Fil.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/Fil.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8f77acecd11bad190a55c6e50bab04') in 0.008574 seconds 
+  Import took 0.011380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012408 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/Fil.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/Fil.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8f77acecd11bad190a55c6e50bab04') in 0.006486 seconds 
+  Import took 0.010039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.699934 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c03cc6eb55881f0379c4ef5573c4b343') in 0.008261 seconds 
+  Import took 0.011336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012962 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c03cc6eb55881f0379c4ef5573c4b343') in 0.006185 seconds 
+  Import took 0.009846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.491755 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/Filr.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/Filr.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ced8cefa54f79736dc3a82f2b998e27a') in 0.009723 seconds 
+  Import took 0.013545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.452999 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4671f098d767dde99b1d593496df427c') in 0.010942 seconds 
+  Import took 0.014773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.717953 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdac25f7522adc7ae349a410fff09ae9') in 0.011538 seconds 
+  Import took 0.015274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.869500 seconds.
+  path: Assets/CustomQuest/Assets/GFX/UI/Buttons/active (1).png
+  artifactKey: Guid(e6c7ec6e9879ccf4189e3c111727208d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/GFX/UI/Buttons/active (1).png using Guid(e6c7ec6e9879ccf4189e3c111727208d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3329543154a1fbbbb16302671e579f02') in 0.052342 seconds 
+  Import took 0.055809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.358401 seconds.
+  path: Assets/CustomQuest/Assets/GFX/UI/Buttons/button16x.png
+  artifactKey: Guid(85260934b0792ef4c85e2742e20ca0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/GFX/UI/Buttons/button16x.png using Guid(85260934b0792ef4c85e2742e20ca0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e987198ea7d7f3f701017153af27e7a2') in 1.063594 seconds 
+  Import took 1.066831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.089775 seconds.
+  path: Assets/CustomQuest/Assets/GFX/UI/Buttons/down.png
+  artifactKey: Guid(5696f785a690b7e41aaaea7e3e20a987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/GFX/UI/Buttons/down.png using Guid(5696f785a690b7e41aaaea7e3e20a987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff3f9dca1ea1695eecd1e0e2d87c2db4') in 0.015819 seconds 
+  Import took 0.019576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.777870 seconds.
+  path: Assets/CustomQuest/Assets/GFX/UI/Buttons/downhover (1).png
+  artifactKey: Guid(2855e1ba21f9d654fabf31d8a2efb549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/GFX/UI/Buttons/downhover (1).png using Guid(2855e1ba21f9d654fabf31d8a2efb549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ade113425b03b32574427da032048ea') in 0.011844 seconds 
+  Import took 0.014729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003737 seconds.
+  path: Assets/CustomQuest/Assets/GFX/UI/Buttons/downhover (1).png
+  artifactKey: Guid(2855e1ba21f9d654fabf31d8a2efb549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/GFX/UI/Buttons/downhover (1).png using Guid(2855e1ba21f9d654fabf31d8a2efb549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ade113425b03b32574427da032048ea') in 0.010984 seconds 
+  Import took 0.013602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.730962 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Images/FullCircle.png
+  artifactKey: Guid(7e3d9fb4510e136488fef6558df236a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Images/FullCircle.png using Guid(7e3d9fb4510e136488fef6558df236a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d126a0034a646d8566c7c4bd0b4bb9a') in 0.016448 seconds 
+  Import took 0.019790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002184 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Images/FullCircle.png
+  artifactKey: Guid(7e3d9fb4510e136488fef6558df236a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Images/FullCircle.png using Guid(7e3d9fb4510e136488fef6558df236a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d126a0034a646d8566c7c4bd0b4bb9a') in 0.014201 seconds 
+  Import took 0.017287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.120917 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Images/glow_white_25.png
+  artifactKey: Guid(8c125f1dceed1754f92ef05ded56df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Images/glow_white_25.png using Guid(8c125f1dceed1754f92ef05ded56df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51462ef6c211ec9b1cb4471ea3a6f81c') in 0.014095 seconds 
+  Import took 0.017101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001036 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Images/glow_white_25.png
+  artifactKey: Guid(8c125f1dceed1754f92ef05ded56df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Images/glow_white_25.png using Guid(8c125f1dceed1754f92ef05ded56df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51462ef6c211ec9b1cb4471ea3a6f81c') in 0.012089 seconds 
+  Import took 0.014942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.012750 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Images/Quest Symbol.png
+  artifactKey: Guid(a36b26cc201e4d841ae8b206289f5593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Images/Quest Symbol.png using Guid(a36b26cc201e4d841ae8b206289f5593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd80484095e31ac10a689ba29fb1146cf') in 0.016785 seconds 
+  Import took 0.019814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004172 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Images/Quest Symbol.png
+  artifactKey: Guid(a36b26cc201e4d841ae8b206289f5593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Images/Quest Symbol.png using Guid(a36b26cc201e4d841ae8b206289f5593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd80484095e31ac10a689ba29fb1146cf') in 0.015197 seconds 
+  Import took 0.018069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.957352 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a268ecc21d530e4c6d7043d2d54aa6e') in 0.011980 seconds 
+  Import took 0.019287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.929997 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3787ee384d9e9055c38a030cd5715150') in 0.009621 seconds 
+  Import took 0.012871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.505781 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f0a3232b0ee0de444915ba5a7323508') in 0.009961 seconds 
+  Import took 0.012885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.750956 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6e026d7a95a0478de1482caf6d09717') in 0.009201 seconds 
+  Import took 0.012756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.242947 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ab88c68df6466304551017a20078af') in 0.010357 seconds 
+  Import took 0.013253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.832719 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '290b66e118ee1b6361675204d1bdbb5e') in 0.009555 seconds 
+  Import took 0.012784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.516877 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25dd9f56900b4a6375d0c578b0fa860c') in 0.009891 seconds 
+  Import took 0.013054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.940088 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a2e904234b78be8a02267fd4a3d9db') in 0.009959 seconds 
+  Import took 0.013633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.183602 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea8ee7a6de79905991fec5ecadd85bd0') in 0.009650 seconds 
+  Import took 0.012774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.515911 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c974a899fecb11b9b484988c73807b04') in 0.012073 seconds 
+  Import took 0.015712 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008044 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1432 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.6 MB.
+System memory in use after: 84.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1932.
+Total: 3.402600 ms (FindLiveObjects: 0.496100 ms CreateObjectMapping: 0.095800 ms MarkObjects: 2.724900 ms  DeleteObjects: 0.083600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 64.318966 seconds.
+  path: Assets/CustomQuest/readme.txt
+  artifactKey: Guid(a064711a724797f4598f2b067bcde440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/readme.txt using Guid(a064711a724797f4598f2b067bcde440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dabfbbcc7302ee152dd58baf063c4bb') in 0.028852 seconds 
+  Import took 0.032741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006782 seconds.
+  path: Assets/CustomQuest/readme.txt
+  artifactKey: Guid(a064711a724797f4598f2b067bcde440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/readme.txt using Guid(a064711a724797f4598f2b067bcde440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dabfbbcc7302ee152dd58baf063c4bb') in 0.005331 seconds 
+  Import took 0.008918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.844183 seconds.
+  path: Assets/CustomQuest
+  artifactKey: Guid(ba01b24c57054bd4b8e67c52f5fba0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest using Guid(ba01b24c57054bd4b8e67c52f5fba0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03c711df7b488ceda336dc9758ada3e') in 0.004209 seconds 
+  Import took 0.007546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.561383 seconds.
+  path: Assets/CustomQuest/Assets
+  artifactKey: Guid(a255a5984dc23de449a698b41e0ecdd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets using Guid(a255a5984dc23de449a698b41e0ecdd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2614edb6a9574f15878357b7852e98e7') in 0.003116 seconds 
+  Import took 0.005894 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009037 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.252 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1432 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.7 MB.
+System memory in use after: 84.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 2.677800 ms (FindLiveObjects: 0.158600 ms CreateObjectMapping: 0.062200 ms MarkObjects: 2.368300 ms  DeleteObjects: 0.087900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 439.520153 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/CQExamplePlayer.prefab
+  artifactKey: Guid(3c5cbcfad19670a4b93f39a223828afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/CQExamplePlayer.prefab using Guid(3c5cbcfad19670a4b93f39a223828afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c44598bd0292b6e06ca3b64d8849a19') in 0.188034 seconds 
+  Import took 0.190861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/SpawnZone.prefab
+  artifactKey: Guid(5b4271db307204c49bf14f3aaa02d0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/SpawnZone.prefab using Guid(5b4271db307204c49bf14f3aaa02d0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1af3b76542413848be855820d65e57e') in 0.030407 seconds 
+  Import took 0.032906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/HandInObject.prefab
+  artifactKey: Guid(be5dc3b178707a647ac5abec8e70fae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/HandInObject.prefab using Guid(be5dc3b178707a647ac5abec8e70fae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6915b7c5e6f08504c5a7fe9db661e08f') in 0.016864 seconds 
+  Import took 0.021643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/QuestSettings.asset
+  artifactKey: Guid(c1917e1d959aaf443b2820cd253caeea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/QuestSettings.asset using Guid(c1917e1d959aaf443b2820cd253caeea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e657b436d047afe2a9ef1f7a2b7419') in 0.050069 seconds 
+  Import took 0.055810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Signpost.prefab
+  artifactKey: Guid(1d1d31e28cef19c439cb538bc0390a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Signpost.prefab using Guid(1d1d31e28cef19c439cb538bc0390a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20752fe1990afdabfec2863adb3510e5') in 0.020948 seconds 
+  Import took 0.024833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005471 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Signpost.prefab
+  artifactKey: Guid(1d1d31e28cef19c439cb538bc0390a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Signpost.prefab using Guid(1d1d31e28cef19c439cb538bc0390a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20752fe1990afdabfec2863adb3510e5') in 0.012742 seconds 
+  Import took 0.016013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.648495 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Background.mat
+  artifactKey: Guid(03940e6c82cd5474c973192fcd4e7773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Background.mat using Guid(03940e6c82cd5474c973192fcd4e7773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef6f2b6cab2b09692c44ca4beb028d0b') in 0.029352 seconds 
+  Import took 0.032844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Face.mat
+  artifactKey: Guid(09262fcfef111134eb4b8feb172509a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Face.mat using Guid(09262fcfef111134eb4b8feb172509a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '585bc25474ba08a8f1ea4338c19e633f') in 0.018584 seconds 
+  Import took 0.022456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Eye.mat
+  artifactKey: Guid(e5d3bbcff9531b540b5c81a40d3aea3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Eye.mat using Guid(e5d3bbcff9531b540b5c81a40d3aea3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2a97d22e0e18b309ffc35d4c5726b9') in 0.015594 seconds 
+  Import took 0.019129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Materials/Concrete.mat
+  artifactKey: Guid(fc443f4be53878c4c8762250c7ed5f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Materials/Concrete.mat using Guid(fc443f4be53878c4c8762250c7ed5f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ac7e76661616d7a80a6bbf4700c26c') in 0.019176 seconds 
+  Import took 0.022460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Face.mat
+  artifactKey: Guid(cda8feb63a7e7ea42b1e6f331917323d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Face.mat using Guid(cda8feb63a7e7ea42b1e6f331917323d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61de0c9a96139b91970b10af63b0c757') in 0.014825 seconds 
+  Import took 0.017553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Hair.mat
+  artifactKey: Guid(6afb5369350572f4582a9c3a39237074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Hair.mat using Guid(6afb5369350572f4582a9c3a39237074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b714517dbe5402f755b50b3d6fb0471') in 0.017183 seconds 
+  Import took 0.020233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Face.mat
+  artifactKey: Guid(8274086241c1b5c409698bb43b1a5de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Face.mat using Guid(8274086241c1b5c409698bb43b1a5de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f9dfde7af4d4b0f8d198d7fb1cbdf12') in 0.016754 seconds 
+  Import took 0.020083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Materials/Brown.mat
+  artifactKey: Guid(4ce821c549e6ae541925878851f71f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Materials/Brown.mat using Guid(4ce821c549e6ae541925878851f71f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2ccd4eebba346c50a5d9cbc2c618e5c') in 0.012708 seconds 
+  Import took 0.015260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Body.mat
+  artifactKey: Guid(d7001ca41e2a046438c51a1ee5363e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Body.mat using Guid(d7001ca41e2a046438c51a1ee5363e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc3cf08eca13afcdef43cc786cd5b3d') in 0.032294 seconds 
+  Import took 0.035030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Eye.mat
+  artifactKey: Guid(c1703c7022a3fa648b31a30fea2a7710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Eye.mat using Guid(c1703c7022a3fa648b31a30fea2a7710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ec793078b3b7f40f1f549dd011cdcb') in 0.013980 seconds 
+  Import took 0.016619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Hair.mat
+  artifactKey: Guid(6c990fc57a45c6540a41d17b455fb608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Hair.mat using Guid(6c990fc57a45c6540a41d17b455fb608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a66d11ca35ccaf81817e896f638f50d') in 0.015911 seconds 
+  Import took 0.019610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Eye.mat
+  artifactKey: Guid(5afa07d265050044090c5ba18fbb4a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Eye.mat using Guid(5afa07d265050044090c5ba18fbb4a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccbd95e86c0a255ebf03cc248dab544a') in 0.014439 seconds 
+  Import took 0.017602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Hair.mat
+  artifactKey: Guid(0ab625fdd1b04714eac51d5c11a1b6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Hair.mat using Guid(0ab625fdd1b04714eac51d5c11a1b6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e7f8e1e5d21f89c1de2ff9f4d71f22e') in 0.015142 seconds 
+  Import took 0.018733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Body.mat
+  artifactKey: Guid(0a32f3c468906cc4f93ea97c8845c151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Body.mat using Guid(0a32f3c468906cc4f93ea97c8845c151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d31c0de508d4cb0db2b6da95d8175d0') in 0.029729 seconds 
+  Import took 0.033132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Eye.mat
+  artifactKey: Guid(676af2c2586790d4fbdbe1d35fca38e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Eye.mat using Guid(676af2c2586790d4fbdbe1d35fca38e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a199a728d20e5dd137f36f1f9265ae83') in 0.015088 seconds 
+  Import took 0.019176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Body.mat
+  artifactKey: Guid(da8082a1ac2a9f44f8519634c27203a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Body.mat using Guid(da8082a1ac2a9f44f8519634c27203a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c71f6e15ff5992215b4d7ac8a3bf5e72') in 0.029805 seconds 
+  Import took 0.033193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Hair.mat
+  artifactKey: Guid(352c6745a6fb12f48a03c374b3375959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Hair.mat using Guid(352c6745a6fb12f48a03c374b3375959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2edc40d1feeebde4dc2d5dbb4578d351') in 0.016016 seconds 
+  Import took 0.020182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Hair.mat
+  artifactKey: Guid(9c750b72eb87e7c4f8feeb5731a2eaa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Hair.mat using Guid(9c750b72eb87e7c4f8feeb5731a2eaa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b9f1680bf4130f72166a370d316e7d') in 0.017000 seconds 
+  Import took 0.019888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Eye.mat
+  artifactKey: Guid(b5813f06b30fa9649b78c3221809657a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Eye.mat using Guid(b5813f06b30fa9649b78c3221809657a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3beb7a6a93068f0852bcc8ff78bb29ee') in 0.016164 seconds 
+  Import took 0.019388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Body.mat
+  artifactKey: Guid(a0f29e3a183fd2f43b7a0b8fc155b3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Body.mat using Guid(a0f29e3a183fd2f43b7a0b8fc155b3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '061be330723726663f6dcb5b1e8053e6') in 0.029606 seconds 
+  Import took 0.032341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Eye.mat
+  artifactKey: Guid(53549ce51ea78604399a9801733a1579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Eye.mat using Guid(53549ce51ea78604399a9801733a1579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c02482367f5373761a25b1490752f1') in 0.014821 seconds 
+  Import took 0.018648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Face.mat
+  artifactKey: Guid(62a6449dc43b34a4abeb6b5921577f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Face.mat using Guid(62a6449dc43b34a4abeb6b5921577f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93637114c9021a3271ef53c2b577c7b') in 0.013581 seconds 
+  Import took 0.017310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Body.mat
+  artifactKey: Guid(e27eefb63ce9ee043aed325be9d9592e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Body.mat using Guid(e27eefb63ce9ee043aed325be9d9592e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e69b28ba2c2267145b1402262234d4e4') in 0.031587 seconds 
+  Import took 0.034657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Face.mat
+  artifactKey: Guid(c5739f131589d8f4f8cb7f07ec674eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Face.mat using Guid(c5739f131589d8f4f8cb7f07ec674eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b404954ae53998aea99a1137dc9c20b4') in 0.013564 seconds 
+  Import took 0.017579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000638 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Face.mat
+  artifactKey: Guid(2622d16207345aa4d83158986e28c233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Face.mat using Guid(2622d16207345aa4d83158986e28c233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15283a5d5a3825b46832e4a3a6c58e44') in 0.021815 seconds 
+  Import took 0.025674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Body.mat
+  artifactKey: Guid(cb3d3ee3d315df2418e707386a56bcaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Body.mat using Guid(cb3d3ee3d315df2418e707386a56bcaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'babd8802d86ab65d0c6f786e3e4440ea') in 0.029096 seconds 
+  Import took 0.032244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Materials/Blue.mat
+  artifactKey: Guid(ac2b86c1512f1c94797efd7ce97279ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Materials/Blue.mat using Guid(ac2b86c1512f1c94797efd7ce97279ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7ae8b0c1554611062df86365ed5757f') in 0.019227 seconds 
+  Import took 0.021910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Body.mat
+  artifactKey: Guid(ae326a50d1410d2479b236fc9b0dfc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Body.mat using Guid(ae326a50d1410d2479b236fc9b0dfc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf9056b9ca0c5ee223854f0b3b33f9e') in 0.033052 seconds 
+  Import took 0.036374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000602 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Body.mat
+  artifactKey: Guid(d19fa0d797ba8824da99b9c9e1f7518c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Body.mat using Guid(d19fa0d797ba8824da99b9c9e1f7518c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83adeac4f162423c35c47ea2cd73b92d') in 0.029714 seconds 
+  Import took 0.032725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Eye.mat
+  artifactKey: Guid(5c7c30cf341bd9442805417965ade255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Eye.mat using Guid(5c7c30cf341bd9442805417965ade255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e21b5fccd95e956d7564854eb121816') in 0.014465 seconds 
+  Import took 0.017326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000542 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Eye.mat
+  artifactKey: Guid(83bf781905dcaba4ba26bcbdc2e1479c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Eye.mat using Guid(83bf781905dcaba4ba26bcbdc2e1479c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999a95eb64446b806cf8941c8589423d') in 0.014174 seconds 
+  Import took 0.017334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Hair.mat
+  artifactKey: Guid(2960a860c0ad5654aab90009515ee967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Hair.mat using Guid(2960a860c0ad5654aab90009515ee967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e5b7e4085f464def1709ae978ae128') in 0.012832 seconds 
+  Import took 0.015602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Hair.mat
+  artifactKey: Guid(56264ef4b8300b0459c3eb13c452d20e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Hair.mat using Guid(56264ef4b8300b0459c3eb13c452d20e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150698e0c58ecc3f2eb1d203d995f708') in 0.014990 seconds 
+  Import took 0.017986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Face.mat
+  artifactKey: Guid(0c31683654772bc4abb82473386cdb7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Face.mat using Guid(0c31683654772bc4abb82473386cdb7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1631dc64d2deff03fb97479f136c480c') in 0.015087 seconds 
+  Import took 0.017895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Eye.mat
+  artifactKey: Guid(35883ab07141e31498df601a0f18a00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Eye.mat using Guid(35883ab07141e31498df601a0f18a00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cac096d7410db4320b07258b391610c9') in 0.020423 seconds 
+  Import took 0.023193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Body.mat
+  artifactKey: Guid(bc8033782a8fe7a44a150dfe295012f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Body.mat using Guid(bc8033782a8fe7a44a150dfe295012f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a38fe490cbd1c2b22e88468a8f0985') in 0.032764 seconds 
+  Import took 0.035991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Hair.mat
+  artifactKey: Guid(f8279e8ba1854de47950ffa3d208752c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Hair.mat using Guid(f8279e8ba1854de47950ffa3d208752c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fffc910d79ae24c3d1249bcca739fe29') in 0.015852 seconds 
+  Import took 0.018936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Female_05_Glasses.mat
+  artifactKey: Guid(c77bb14403549764ea67f00576ee7dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Female_05_Glasses.mat using Guid(c77bb14403549764ea67f00576ee7dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f7b839d85789ca0671112892f2e8663') in 0.013845 seconds 
+  Import took 0.017108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Female_03_Glasses.mat
+  artifactKey: Guid(8619e18f7ccad8c40bf52d00b6cb5fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Female_03_Glasses.mat using Guid(8619e18f7ccad8c40bf52d00b6cb5fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d53f1bd196271f4d7334cec201275d') in 0.019783 seconds 
+  Import took 0.022821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Face.mat
+  artifactKey: Guid(303f3376068ab6e4bab371019df10b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Face.mat using Guid(303f3376068ab6e4bab371019df10b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03ea63fbe1e9ef8a8a17935693d59a8') in 0.015175 seconds 
+  Import took 0.018655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Face.mat
+  artifactKey: Guid(903ed31b4d264024fb007b5fda39abc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Face.mat using Guid(903ed31b4d264024fb007b5fda39abc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0bc8fee35ad2b7f95e2952592420aa1') in 0.014779 seconds 
+  Import took 0.018149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.122339 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Female_01_V01.fbx
+  artifactKey: Guid(88ba486d780efc948a81f5bd24144a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Female_01_V01.fbx using Guid(88ba486d780efc948a81f5bd24144a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c9f4d6df9dbca9bde8517ec875a0a5') in 0.197444 seconds 
+  Import took 0.200945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Male_02_V01.fbx
+  artifactKey: Guid(061792466c86e08478a91fde64cc5b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Male_02_V01.fbx using Guid(061792466c86e08478a91fde64cc5b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '159693f7391c0cbeef0fc1206ed2f939') in 0.141029 seconds 
+  Import took 0.144256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Female_03_V01.fbx
+  artifactKey: Guid(e14834c39f3768f40875323c85947976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Female_03_V01.fbx using Guid(e14834c39f3768f40875323c85947976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395b3767b40bb4a4f8171d7ea1e08676') in 0.160322 seconds 
+  Import took 0.163531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Female_06_V02.fbx
+  artifactKey: Guid(f9d818a956a57404086ef1201e0e4516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Female_06_V02.fbx using Guid(f9d818a956a57404086ef1201e0e4516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68c10a09f3a5151840d1fd6ce292b81a') in 0.158162 seconds 
+  Import took 0.161391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Female_01_V02.fbx
+  artifactKey: Guid(5329596f87a19e443b297a306b9a7624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Female_01_V02.fbx using Guid(5329596f87a19e443b297a306b9a7624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5bac1097f9d0e1d8c86e6640b5f8b20') in 0.158000 seconds 
+  Import took 0.161102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V01/Male_03_V01.fbx
+  artifactKey: Guid(d0aa9529ba7e8c34db6d64679966f41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V01/Male_03_V01.fbx using Guid(d0aa9529ba7e8c34db6d64679966f41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71c6f009515a7ae5d4608b958a37f64e') in 0.152150 seconds 
+  Import took 0.155197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Male_04_V02.fbx
+  artifactKey: Guid(5d7d86aa5f7df90458497031d939c676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Male_04_V02.fbx using Guid(5d7d86aa5f7df90458497031d939c676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e9d6039cac2bd188ffbb815ff68e82') in 0.144792 seconds 
+  Import took 0.147778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Male_05_V02.fbx
+  artifactKey: Guid(2a73beee6073db44383a00ec9d7110cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Male_05_V02.fbx using Guid(2a73beee6073db44383a00ec9d7110cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d29b047dcdad6ccfa1ccc8ed337c100') in 0.157998 seconds 
+  Import took 0.161375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Female_02_V01.fbx
+  artifactKey: Guid(75d07839e105d994c8b61ac140cebba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Female_02_V01.fbx using Guid(75d07839e105d994c8b61ac140cebba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a1c85d2cc361cfb971b88d54c4d0d3') in 0.156111 seconds 
+  Import took 0.159080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Male_06_V02.fbx
+  artifactKey: Guid(2834dfd0c353c214b940f73920bee52b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Male_06_V02.fbx using Guid(2834dfd0c353c214b940f73920bee52b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de92f8244fd6c4680a9fed42d3785644') in 0.136271 seconds 
+  Import took 0.139764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Male_01_V02.fbx
+  artifactKey: Guid(4296f97cc40b64240b45dee0e13ef0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Male_01_V02.fbx using Guid(4296f97cc40b64240b45dee0e13ef0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d58e6cd6a5228d456fc16356737b01a') in 0.147008 seconds 
+  Import took 0.150173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Female_02_V02.fbx
+  artifactKey: Guid(293322dac04cbb940ad7567ac1e49d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Female_02_V02.fbx using Guid(293322dac04cbb940ad7567ac1e49d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c298413c40f452c719f760eb6caeaf67') in 0.150065 seconds 
+  Import took 0.153168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Female_05_V01.fbx
+  artifactKey: Guid(db9f95a99f1930449b7840c27259e04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Female_05_V01.fbx using Guid(db9f95a99f1930449b7840c27259e04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fa47968f02414d5414ee24e9fbc8361') in 0.160355 seconds 
+  Import took 0.163403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Male_04_V01.fbx
+  artifactKey: Guid(2bc791ecfa271274ba9b92d8335aa11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Male_04_V01.fbx using Guid(2bc791ecfa271274ba9b92d8335aa11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3fe5c7d256df0c5197f1efdfc7d1f5') in 0.146368 seconds 
+  Import took 0.149721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Female_06_V01.fbx
+  artifactKey: Guid(8bf4e0d25fd601e45aa8fea3d680780b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Female_06_V01.fbx using Guid(8bf4e0d25fd601e45aa8fea3d680780b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6daab7aed8f89b546f3a1c8ec6cd61d') in 0.159525 seconds 
+  Import took 0.162656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Female_04_V02.fbx
+  artifactKey: Guid(08a743ee809bb5a4c9fa192760f8a84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Female_04_V02.fbx using Guid(08a743ee809bb5a4c9fa192760f8a84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4669960ba5aa1484a1255cbd1984e7c6') in 0.145985 seconds 
+  Import took 0.149014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Female_04_V01.fbx
+  artifactKey: Guid(0071643af5966304f8fa1087672b748f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Female_04_V01.fbx using Guid(0071643af5966304f8fa1087672b748f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da22671f949fd01ce483b353521a8d82') in 0.154004 seconds 
+  Import took 0.157230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Male_06_V01.fbx
+  artifactKey: Guid(43a29e70a166e5f44992e32dc9d78820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Male_06_V01.fbx using Guid(43a29e70a166e5f44992e32dc9d78820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffde31283cfee91c5a7078d63b91c3f7') in 0.139783 seconds 
+  Import took 0.142843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Male_03_V02.fbx
+  artifactKey: Guid(9ff645f742c673a4c85b1db215b98e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Male_03_V02.fbx using Guid(9ff645f742c673a4c85b1db215b98e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93dd5e71799bfc34ae473a09bdf1f1c0') in 0.149234 seconds 
+  Import took 0.152357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Female_03_V02.fbx
+  artifactKey: Guid(cb8559960acbd5f439158ceeff88adbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Female_03_V02.fbx using Guid(cb8559960acbd5f439158ceeff88adbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3411944b5241bd14a5b6f5ba88cdccb') in 0.159423 seconds 
+  Import took 0.162644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Male_05_V01.fbx
+  artifactKey: Guid(1b1a8cecbc5fd854d982b9e101bc14ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Male_05_V01.fbx using Guid(1b1a8cecbc5fd854d982b9e101bc14ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5708e7073ad29c01754cb60da8af96de') in 0.156662 seconds 
+  Import took 0.159911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Female_05_V02.fbx
+  artifactKey: Guid(2e2b93be740e97f4e854af3bb8330932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Female_05_V02.fbx using Guid(2e2b93be740e97f4e854af3bb8330932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93bb3826216c5dabd4abe9f4ae336e8') in 0.172493 seconds 
+  Import took 0.175666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.302700 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/UI/UI Parts/Compass.prefab
+  artifactKey: Guid(712d271e23e36dc439791c0ca6205ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/UI/UI Parts/Compass.prefab using Guid(712d271e23e36dc439791c0ca6205ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895d2217b699ea7e352c19bd5c898bf0') in 0.006749 seconds 
+  Import took 0.010103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Prefabs/Enviroment.prefab
+  artifactKey: Guid(34e359e44bad14e41914a23ed92b70f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Prefabs/Enviroment.prefab using Guid(34e359e44bad14e41914a23ed92b70f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac5ef1a47f64fc64512b1c0f54ef05ce') in 0.014703 seconds 
+  Import took 0.017648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Resources/CriteriaUITemplate.prefab
+  artifactKey: Guid(1c67a39858ff7cf4abe3e91ae2a48f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Resources/CriteriaUITemplate.prefab using Guid(1c67a39858ff7cf4abe3e91ae2a48f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '273336cedbf6a797ed3b18e71f2b0b5b') in 0.012703 seconds 
+  Import took 0.016188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Resources/CompassArrow.prefab
+  artifactKey: Guid(ab3b065e8e3eb5541976b2f2d349ce4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Resources/CompassArrow.prefab using Guid(ab3b065e8e3eb5541976b2f2d349ce4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8e7f72b0c68351f612bb913bae8738') in 0.009451 seconds 
+  Import took 0.012926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_04_V01.prefab
+  artifactKey: Guid(cfdeca144f90cd94cafba1202ea90251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_04_V01.prefab using Guid(cfdeca144f90cd94cafba1202ea90251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e174eef587a17b0d45471dae3fc6ad18') in 0.071820 seconds 
+  Import took 0.075133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_03_V02.prefab
+  artifactKey: Guid(5e6b9bea6907a28428f58dc4c7921e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_03_V02.prefab using Guid(5e6b9bea6907a28428f58dc4c7921e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3e8a9af7829bd8f814cd515d55b39c') in 0.060215 seconds 
+  Import took 0.063820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V02.prefab
+  artifactKey: Guid(9342e78f4850070488bb798f3bbf8840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V02.prefab using Guid(9342e78f4850070488bb798f3bbf8840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3610282eb833b4f34f30d8f33ac6ec1b') in 0.056091 seconds 
+  Import took 0.060255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Prefabs/Enemy.prefab
+  artifactKey: Guid(cf8fb48b3070beb4bb664e9f220ffa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Prefabs/Enemy.prefab using Guid(cf8fb48b3070beb4bb664e9f220ffa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675a9705b884cf5b8ceb52c1b08be95d') in 0.017441 seconds 
+  Import took 0.020311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/UI/HudWheel.prefab
+  artifactKey: Guid(95838e07575c2044bb10079bb34e0fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/UI/HudWheel.prefab using Guid(95838e07575c2044bb10079bb34e0fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eada2ee56e38599ce2e333014976601') in 0.010855 seconds 
+  Import took 0.013739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Criterias/Kill Gobbos.prefab
+  artifactKey: Guid(936051557118caf4fa212abe05d5cb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Criterias/Kill Gobbos.prefab using Guid(936051557118caf4fa212abe05d5cb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c9b9c10cd948867ff61cdeb8c1435f') in 0.006414 seconds 
+  Import took 0.009461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000576 seconds.
+  path: Assets/CustomQuest/Demo/GFX/Prefabs/Gem.prefab
+  artifactKey: Guid(28a20a84abeb0a54891b536f54cd75dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/GFX/Prefabs/Gem.prefab using Guid(28a20a84abeb0a54891b536f54cd75dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c791fda7d5398bc6d65454bb4cf7fd') in 0.017537 seconds 
+  Import took 0.020837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Criterias/Deliver Gems.prefab
+  artifactKey: Guid(0db276636bf03c84396d4e02a4fe03f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Criterias/Deliver Gems.prefab using Guid(0db276636bf03c84396d4e02a4fe03f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8c2ee47bfb6834929cf7839a6f9527') in 0.006010 seconds 
+  Import took 0.008568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab
+  artifactKey: Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Quests/File.prefab using Guid(0a902f735d1487c4eb471f790bcccb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b3462cba7ac5afcf9b6b45ddee44634') in 0.006078 seconds 
+  Import took 0.009535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/Criterias/Gather Gems.prefab
+  artifactKey: Guid(0a81671cc1bc77044ad409c2be33a5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/Criterias/Gather Gems.prefab using Guid(0a81671cc1bc77044ad409c2be33a5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd49e171f7160404466513a7acf22c19e') in 0.007591 seconds 
+  Import took 0.011353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/UI/Compass.prefab
+  artifactKey: Guid(bdb40c195409ca74183badb755b412e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/UI/Compass.prefab using Guid(bdb40c195409ca74183badb755b412e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca8d099e62126788d5ae6f814f71e7f') in 0.004720 seconds 
+  Import took 0.007367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V01.prefab
+  artifactKey: Guid(1ce6bdc03e86f854a86e058e1a9ee456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V01.prefab using Guid(1ce6bdc03e86f854a86e058e1a9ee456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501f13aad5c26e8084065fd95da452e0') in 0.066464 seconds 
+  Import took 0.070371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_03_V01.prefab
+  artifactKey: Guid(114b26d9de9ea7343998657fa56d509b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_03_V01.prefab using Guid(114b26d9de9ea7343998657fa56d509b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34c506c5f3a68f3344d017b3786477de') in 0.061396 seconds 
+  Import took 0.065331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V02.prefab
+  artifactKey: Guid(2c3c7b33f3eea7b41811d1ba0f85d750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V02.prefab using Guid(2c3c7b33f3eea7b41811d1ba0f85d750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d308348a04b14b2d1bc1653ba9ad66') in 0.059290 seconds 
+  Import took 0.062854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/UI/UI Parts/Items.prefab
+  artifactKey: Guid(1ec49913205a7f04898c98da8ebd46f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/UI/UI Parts/Items.prefab using Guid(1ec49913205a7f04898c98da8ebd46f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467f9141f8a6af42cec000ef39d966a2') in 0.006245 seconds 
+  Import took 0.008807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/CustomQuest/Assets/Prefabs/UI/Main Camera.prefab
+  artifactKey: Guid(cdee944f954400e4f80e9711598d5b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Assets/Prefabs/UI/Main Camera.prefab using Guid(cdee944f954400e4f80e9711598d5b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9587b48bdab4753bb43d746aa59bb6b2') in 0.007420 seconds 
+  Import took 0.010420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V01.prefab
+  artifactKey: Guid(beb9e839b531a744c877a785deeaa302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V01.prefab using Guid(beb9e839b531a744c877a785deeaa302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f187e0a366bb85ea591bee07dc78afa5') in 0.065259 seconds 
+  Import took 0.069517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.343742 seconds.
+  path: Assets/CustomQuest/Demo/Scenes
+  artifactKey: Guid(38255cfa7843665498e8ebecf239169e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/Scenes using Guid(38255cfa7843665498e8ebecf239169e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b606afd87a4ec1a4b65c914d7ddd64') in 0.004537 seconds 
+  Import took 0.007925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.186744 seconds.
+  path: Assets/CustomQuest/Demo/Scenes/CustomQuestExampleScene.unity
+  artifactKey: Guid(5dcf534d6ae8f0f45a4f04324170ea50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomQuest/Demo/Scenes/CustomQuestExampleScene.unity using Guid(5dcf534d6ae8f0f45a4f04324170ea50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '358d03e32df03fa2506d65b87104ccc2') in 0.005474 seconds 
+  Import took 0.009197 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005522 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.319 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1432 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.4 MB.
+System memory in use after: 86.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1943.
+Total: 2.509900 ms (FindLiveObjects: 0.159900 ms CreateObjectMapping: 0.042900 ms MarkObjects: 2.220000 ms  DeleteObjects: 0.086100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
